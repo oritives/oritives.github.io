@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oritives.github.io/sitemap.html.gz
+Sitemap: https://oritives.github.io/app/sitemap.html.gz
+Sitemap: https://oritives.github.io/assets/sitemap.html.gz
+Sitemap: https://oritives.github.io/css/sitemap.html.gz
+Sitemap: https://oritives.github.io/includes/sitemap.html.gz
+Sitemap: https://oritives.github.io/item/sitemap.html.gz
+Sitemap: https://oritives.github.io/src/sitemap.html.gz
